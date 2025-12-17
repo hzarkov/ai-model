@@ -16,7 +16,7 @@ fi
 cd "$(dirname "$0")"
 
 echo "Building download-model image..."
-# docker build --network=host -t flan-t5-downloader ./download-model
+docker build --network=host -t model-downloader ./download-model
 
 echo "Running download-model container as UID=$(id -u), GID=$(id -g) for model: $MODEL_TO_DOWNLOAD ..."
 docker run --rm -it --network=host \
@@ -24,7 +24,7 @@ docker run --rm -it --network=host \
   -e HOST_GID=$(id -g) \
   -e HF_TOKEN="$HF_TOKEN" \
   -v "$PWD/models:/models" \
-  --name flan-t5-downloader1 \
-  flan-t5-downloader "$MODEL_TO_DOWNLOAD"
+  --name model-downloader \
+  model-downloader "$MODEL_TO_DOWNLOAD"
 
 echo "Model download complete."

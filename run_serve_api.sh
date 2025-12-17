@@ -16,11 +16,11 @@ PORT="${PORT:-8000}"
 # Build the image
 
 echo "Building FastAPI serving image..."
-docker build --network=host -t flan-t5-api ./serve-api
+docker build --network=host -t model-api ./serve-api
 
 echo "Running FastAPI server for model at $MODEL_PATH ..."
 docker run -it --rm -p $PORT:8000 \
   -v "$PWD/models:/models" \
   -e MODEL_PATH="$MODEL_PATH" \
-  --name flan-t5-api \
-  flan-t5-api
+  --name model-api \
+  model-api
