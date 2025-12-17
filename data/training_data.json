@@ -1,0 +1,4087 @@
+[
+  {
+    "note": "06:00UTC - Made breakfast (eggs), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "06:00UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:07UTC - Made lunch (sandwich, pasta), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "06:07UTC",
+        "label": "lunch",
+        "food": [
+          "sandwich",
+          "pasta"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:14UTC - Made dinner (curry, soup, stir fry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "06:14UTC",
+        "label": "dinner",
+        "food": [
+          "curry",
+          "soup",
+          "stir fry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:21UTC - Had a quick snack (chips).",
+    "output": [
+      {
+        "timestamp": "06:21UTC",
+        "label": "snack",
+        "food": [
+          "chips"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:28UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "06:28UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:35UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "06:35UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:42UTC - Made breakfast (avocado toast), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "06:42UTC",
+        "label": "breakfast",
+        "food": [
+          "avocado toast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:49UTC - Made lunch (wrap, salad), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "06:49UTC",
+        "label": "lunch",
+        "food": [
+          "wrap",
+          "salad"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:56UTC - Made dinner (steak, pasta, curry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "06:56UTC",
+        "label": "dinner",
+        "food": [
+          "steak",
+          "pasta",
+          "curry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:03UTC - Had a quick snack (apple).",
+    "output": [
+      {
+        "timestamp": "07:03UTC",
+        "label": "snack",
+        "food": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:10UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "07:10UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:17UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "07:17UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:24UTC - Made breakfast (yogurt), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "07:24UTC",
+        "label": "breakfast",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:31UTC - Made lunch (sushi, burger), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "07:31UTC",
+        "label": "lunch",
+        "food": [
+          "sushi",
+          "burger"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:38UTC - Made dinner (pizza, fish, steak), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "07:38UTC",
+        "label": "dinner",
+        "food": [
+          "pizza",
+          "fish",
+          "steak"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:45UTC - Had a quick snack (yogurt).",
+    "output": [
+      {
+        "timestamp": "07:45UTC",
+        "label": "snack",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:52UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "07:52UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:59UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "07:59UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:06UTC - Made breakfast (oatmeal), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "08:06UTC",
+        "label": "breakfast",
+        "food": [
+          "oatmeal"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:13UTC - Made lunch (rice, chicken), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "08:13UTC",
+        "label": "lunch",
+        "food": [
+          "rice",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:20UTC - Made dinner (stir fry, tacos, pizza), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "08:20UTC",
+        "label": "dinner",
+        "food": [
+          "stir fry",
+          "tacos",
+          "pizza"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:27UTC - Had a quick snack (protein bar).",
+    "output": [
+      {
+        "timestamp": "08:27UTC",
+        "label": "snack",
+        "food": [
+          "protein bar"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:34UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "08:34UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:41UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "08:41UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:48UTC - Made breakfast (eggs), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "08:48UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:55UTC - Made lunch (sandwich, pasta), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "08:55UTC",
+        "label": "lunch",
+        "food": [
+          "sandwich",
+          "pasta"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:02UTC - Made dinner (curry, soup, stir fry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "09:02UTC",
+        "label": "dinner",
+        "food": [
+          "curry",
+          "soup",
+          "stir fry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:09UTC - Had a quick snack (chips).",
+    "output": [
+      {
+        "timestamp": "09:09UTC",
+        "label": "snack",
+        "food": [
+          "chips"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:16UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "09:16UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:23UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "09:23UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:30UTC - Made breakfast (avocado toast), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "09:30UTC",
+        "label": "breakfast",
+        "food": [
+          "avocado toast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:37UTC - Made lunch (wrap, salad), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "09:37UTC",
+        "label": "lunch",
+        "food": [
+          "wrap",
+          "salad"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:44UTC - Made dinner (steak, pasta, curry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "09:44UTC",
+        "label": "dinner",
+        "food": [
+          "steak",
+          "pasta",
+          "curry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:51UTC - Had a quick snack (apple).",
+    "output": [
+      {
+        "timestamp": "09:51UTC",
+        "label": "snack",
+        "food": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:58UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "09:58UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "10:05UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "10:05UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "10:12UTC - Made breakfast (yogurt), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "10:12UTC",
+        "label": "breakfast",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "10:19UTC - Made lunch (sushi, burger), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "10:19UTC",
+        "label": "lunch",
+        "food": [
+          "sushi",
+          "burger"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "10:26UTC - Made dinner (pizza, fish, steak), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "10:26UTC",
+        "label": "dinner",
+        "food": [
+          "pizza",
+          "fish",
+          "steak"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "10:33UTC - Had a quick snack (yogurt).",
+    "output": [
+      {
+        "timestamp": "10:33UTC",
+        "label": "snack",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "10:40UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "10:40UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "10:47UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "10:47UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "10:54UTC - Made breakfast (oatmeal), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "10:54UTC",
+        "label": "breakfast",
+        "food": [
+          "oatmeal"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:01UTC - Made lunch (rice, chicken), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "11:01UTC",
+        "label": "lunch",
+        "food": [
+          "rice",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:08UTC - Made dinner (stir fry, tacos, pizza), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "11:08UTC",
+        "label": "dinner",
+        "food": [
+          "stir fry",
+          "tacos",
+          "pizza"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:15UTC - Had a quick snack (protein bar).",
+    "output": [
+      {
+        "timestamp": "11:15UTC",
+        "label": "snack",
+        "food": [
+          "protein bar"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:22UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "11:22UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:29UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "11:29UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:36UTC - Made breakfast (eggs), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "11:36UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:43UTC - Made lunch (sandwich, pasta), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "11:43UTC",
+        "label": "lunch",
+        "food": [
+          "sandwich",
+          "pasta"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:50UTC - Made dinner (curry, soup, stir fry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "11:50UTC",
+        "label": "dinner",
+        "food": [
+          "curry",
+          "soup",
+          "stir fry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:57UTC - Had a quick snack (chips).",
+    "output": [
+      {
+        "timestamp": "11:57UTC",
+        "label": "snack",
+        "food": [
+          "chips"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:04UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "12:04UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:11UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "12:11UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:18UTC - Made breakfast (avocado toast), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "12:18UTC",
+        "label": "breakfast",
+        "food": [
+          "avocado toast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:25UTC - Made lunch (wrap, salad), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "12:25UTC",
+        "label": "lunch",
+        "food": [
+          "wrap",
+          "salad"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:32UTC - Made dinner (steak, pasta, curry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "12:32UTC",
+        "label": "dinner",
+        "food": [
+          "steak",
+          "pasta",
+          "curry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:39UTC - Had a quick snack (apple).",
+    "output": [
+      {
+        "timestamp": "12:39UTC",
+        "label": "snack",
+        "food": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:46UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "12:46UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:53UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "12:53UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:00UTC - Made breakfast (yogurt), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "13:00UTC",
+        "label": "breakfast",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:07UTC - Made lunch (sushi, burger), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "13:07UTC",
+        "label": "lunch",
+        "food": [
+          "sushi",
+          "burger"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:14UTC - Made dinner (pizza, fish, steak), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "13:14UTC",
+        "label": "dinner",
+        "food": [
+          "pizza",
+          "fish",
+          "steak"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:21UTC - Had a quick snack (yogurt).",
+    "output": [
+      {
+        "timestamp": "13:21UTC",
+        "label": "snack",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:28UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "13:28UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:35UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "13:35UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:42UTC - Made breakfast (oatmeal), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "13:42UTC",
+        "label": "breakfast",
+        "food": [
+          "oatmeal"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:49UTC - Made lunch (rice, chicken), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "13:49UTC",
+        "label": "lunch",
+        "food": [
+          "rice",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:56UTC - Made dinner (stir fry, tacos, pizza), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "13:56UTC",
+        "label": "dinner",
+        "food": [
+          "stir fry",
+          "tacos",
+          "pizza"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:03UTC - Had a quick snack (protein bar).",
+    "output": [
+      {
+        "timestamp": "14:03UTC",
+        "label": "snack",
+        "food": [
+          "protein bar"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:10UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "14:10UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:17UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "14:17UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:24UTC - Made breakfast (eggs), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "14:24UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:31UTC - Made lunch (sandwich, pasta), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "14:31UTC",
+        "label": "lunch",
+        "food": [
+          "sandwich",
+          "pasta"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:38UTC - Made dinner (curry, soup, stir fry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "14:38UTC",
+        "label": "dinner",
+        "food": [
+          "curry",
+          "soup",
+          "stir fry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:45UTC - Had a quick snack (chips).",
+    "output": [
+      {
+        "timestamp": "14:45UTC",
+        "label": "snack",
+        "food": [
+          "chips"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:52UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "14:52UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:59UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "14:59UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:06UTC - Made breakfast (avocado toast), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "15:06UTC",
+        "label": "breakfast",
+        "food": [
+          "avocado toast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:13UTC - Made lunch (wrap, salad), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "15:13UTC",
+        "label": "lunch",
+        "food": [
+          "wrap",
+          "salad"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:20UTC - Made dinner (steak, pasta, curry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "15:20UTC",
+        "label": "dinner",
+        "food": [
+          "steak",
+          "pasta",
+          "curry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:27UTC - Had a quick snack (apple).",
+    "output": [
+      {
+        "timestamp": "15:27UTC",
+        "label": "snack",
+        "food": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:34UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "15:34UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:41UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "15:41UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:48UTC - Made breakfast (yogurt), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "15:48UTC",
+        "label": "breakfast",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:55UTC - Made lunch (sushi, burger), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "15:55UTC",
+        "label": "lunch",
+        "food": [
+          "sushi",
+          "burger"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:02UTC - Made dinner (pizza, fish, steak), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "16:02UTC",
+        "label": "dinner",
+        "food": [
+          "pizza",
+          "fish",
+          "steak"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:09UTC - Had a quick snack (yogurt).",
+    "output": [
+      {
+        "timestamp": "16:09UTC",
+        "label": "snack",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:16UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "16:16UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:23UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "16:23UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:30UTC - Made breakfast (oatmeal), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "16:30UTC",
+        "label": "breakfast",
+        "food": [
+          "oatmeal"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:37UTC - Made lunch (rice, chicken), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "16:37UTC",
+        "label": "lunch",
+        "food": [
+          "rice",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:44UTC - Made dinner (stir fry, tacos, pizza), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "16:44UTC",
+        "label": "dinner",
+        "food": [
+          "stir fry",
+          "tacos",
+          "pizza"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:51UTC - Had a quick snack (protein bar).",
+    "output": [
+      {
+        "timestamp": "16:51UTC",
+        "label": "snack",
+        "food": [
+          "protein bar"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:58UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "16:58UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:05UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "17:05UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:12UTC - Made breakfast (eggs), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "17:12UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:19UTC - Made lunch (sandwich, pasta), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "17:19UTC",
+        "label": "lunch",
+        "food": [
+          "sandwich",
+          "pasta"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:26UTC - Made dinner (curry, soup, stir fry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "17:26UTC",
+        "label": "dinner",
+        "food": [
+          "curry",
+          "soup",
+          "stir fry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:33UTC - Had a quick snack (chips).",
+    "output": [
+      {
+        "timestamp": "17:33UTC",
+        "label": "snack",
+        "food": [
+          "chips"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:40UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "17:40UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:47UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "17:47UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:54UTC - Made breakfast (avocado toast), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "17:54UTC",
+        "label": "breakfast",
+        "food": [
+          "avocado toast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:01UTC - Made lunch (wrap, salad), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "18:01UTC",
+        "label": "lunch",
+        "food": [
+          "wrap",
+          "salad"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:08UTC - Made dinner (steak, pasta, curry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "18:08UTC",
+        "label": "dinner",
+        "food": [
+          "steak",
+          "pasta",
+          "curry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:15UTC - Had a quick snack (apple).",
+    "output": [
+      {
+        "timestamp": "18:15UTC",
+        "label": "snack",
+        "food": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:22UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "18:22UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:29UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "18:29UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:36UTC - Made breakfast (yogurt), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "18:36UTC",
+        "label": "breakfast",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:43UTC - Made lunch (sushi, burger), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "18:43UTC",
+        "label": "lunch",
+        "food": [
+          "sushi",
+          "burger"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:50UTC - Made dinner (pizza, fish, steak), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "18:50UTC",
+        "label": "dinner",
+        "food": [
+          "pizza",
+          "fish",
+          "steak"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:57UTC - Had a quick snack (yogurt).",
+    "output": [
+      {
+        "timestamp": "18:57UTC",
+        "label": "snack",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:04UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "19:04UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:11UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "19:11UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:18UTC - Made breakfast (oatmeal), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "19:18UTC",
+        "label": "breakfast",
+        "food": [
+          "oatmeal"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:25UTC - Made lunch (rice, chicken), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "19:25UTC",
+        "label": "lunch",
+        "food": [
+          "rice",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:32UTC - Made dinner (stir fry, tacos, pizza), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "19:32UTC",
+        "label": "dinner",
+        "food": [
+          "stir fry",
+          "tacos",
+          "pizza"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:39UTC - Had a quick snack (protein bar).",
+    "output": [
+      {
+        "timestamp": "19:39UTC",
+        "label": "snack",
+        "food": [
+          "protein bar"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:46UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "19:46UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:53UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "19:53UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:00UTC - Made breakfast (eggs), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "20:00UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:07UTC - Made lunch (sandwich, pasta), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "20:07UTC",
+        "label": "lunch",
+        "food": [
+          "sandwich",
+          "pasta"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:14UTC - Made dinner (curry, soup, stir fry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "20:14UTC",
+        "label": "dinner",
+        "food": [
+          "curry",
+          "soup",
+          "stir fry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:21UTC - Had a quick snack (chips).",
+    "output": [
+      {
+        "timestamp": "20:21UTC",
+        "label": "snack",
+        "food": [
+          "chips"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:28UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "20:28UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:35UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "20:35UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:42UTC - Made breakfast (avocado toast), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "20:42UTC",
+        "label": "breakfast",
+        "food": [
+          "avocado toast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:49UTC - Made lunch (wrap, salad), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "20:49UTC",
+        "label": "lunch",
+        "food": [
+          "wrap",
+          "salad"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:56UTC - Made dinner (steak, pasta, curry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "20:56UTC",
+        "label": "dinner",
+        "food": [
+          "steak",
+          "pasta",
+          "curry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:03UTC - Had a quick snack (apple).",
+    "output": [
+      {
+        "timestamp": "21:03UTC",
+        "label": "snack",
+        "food": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:10UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "21:10UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:17UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "21:17UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:24UTC - Made breakfast (yogurt), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "21:24UTC",
+        "label": "breakfast",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:31UTC - Made lunch (sushi, burger), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "21:31UTC",
+        "label": "lunch",
+        "food": [
+          "sushi",
+          "burger"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:38UTC - Made dinner (pizza, fish, steak), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "21:38UTC",
+        "label": "dinner",
+        "food": [
+          "pizza",
+          "fish",
+          "steak"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:45UTC - Had a quick snack (yogurt).",
+    "output": [
+      {
+        "timestamp": "21:45UTC",
+        "label": "snack",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:52UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "21:52UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:59UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "21:59UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:06UTC - Made breakfast (oatmeal), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "22:06UTC",
+        "label": "breakfast",
+        "food": [
+          "oatmeal"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:13UTC - Made lunch (rice, chicken), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "22:13UTC",
+        "label": "lunch",
+        "food": [
+          "rice",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:20UTC - Made dinner (stir fry, tacos, pizza), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "22:20UTC",
+        "label": "dinner",
+        "food": [
+          "stir fry",
+          "tacos",
+          "pizza"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:27UTC - Had a quick snack (protein bar).",
+    "output": [
+      {
+        "timestamp": "22:27UTC",
+        "label": "snack",
+        "food": [
+          "protein bar"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:34UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "22:34UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:41UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "22:41UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:48UTC - Made breakfast (eggs), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "22:48UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:55UTC - Made lunch (sandwich, pasta), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "22:55UTC",
+        "label": "lunch",
+        "food": [
+          "sandwich",
+          "pasta"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "23:02UTC - Made dinner (curry, soup, stir fry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "23:02UTC",
+        "label": "dinner",
+        "food": [
+          "curry",
+          "soup",
+          "stir fry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "23:09UTC - Had a quick snack (chips).",
+    "output": [
+      {
+        "timestamp": "23:09UTC",
+        "label": "snack",
+        "food": [
+          "chips"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "23:16UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "23:16UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "23:23UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "23:23UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "23:30UTC - Made breakfast (avocado toast), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "23:30UTC",
+        "label": "breakfast",
+        "food": [
+          "avocado toast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "23:37UTC - Made lunch (wrap, salad), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "23:37UTC",
+        "label": "lunch",
+        "food": [
+          "wrap",
+          "salad"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "23:44UTC - Made dinner (steak, pasta, curry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "23:44UTC",
+        "label": "dinner",
+        "food": [
+          "steak",
+          "pasta",
+          "curry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "23:51UTC - Had a quick snack (apple).",
+    "output": [
+      {
+        "timestamp": "23:51UTC",
+        "label": "snack",
+        "food": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "23:58UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "23:58UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "00:05UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "00:05UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "00:12UTC - Made breakfast (yogurt), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "00:12UTC",
+        "label": "breakfast",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "00:19UTC - Made lunch (sushi, burger), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "00:19UTC",
+        "label": "lunch",
+        "food": [
+          "sushi",
+          "burger"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "00:26UTC - Made dinner (pizza, fish, steak), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "00:26UTC",
+        "label": "dinner",
+        "food": [
+          "pizza",
+          "fish",
+          "steak"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "00:33UTC - Had a quick snack (yogurt).",
+    "output": [
+      {
+        "timestamp": "00:33UTC",
+        "label": "snack",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "00:40UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "00:40UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "00:47UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "00:47UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "00:54UTC - Made breakfast (oatmeal), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "00:54UTC",
+        "label": "breakfast",
+        "food": [
+          "oatmeal"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "01:01UTC - Made lunch (rice, chicken), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "01:01UTC",
+        "label": "lunch",
+        "food": [
+          "rice",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "01:08UTC - Made dinner (stir fry, tacos, pizza), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "01:08UTC",
+        "label": "dinner",
+        "food": [
+          "stir fry",
+          "tacos",
+          "pizza"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "01:15UTC - Had a quick snack (protein bar).",
+    "output": [
+      {
+        "timestamp": "01:15UTC",
+        "label": "snack",
+        "food": [
+          "protein bar"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "01:22UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "01:22UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "01:29UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "01:29UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "01:36UTC - Made breakfast (eggs), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "01:36UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "01:43UTC - Made lunch (sandwich, pasta), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "01:43UTC",
+        "label": "lunch",
+        "food": [
+          "sandwich",
+          "pasta"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "01:50UTC - Made dinner (curry, soup, stir fry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "01:50UTC",
+        "label": "dinner",
+        "food": [
+          "curry",
+          "soup",
+          "stir fry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "01:57UTC - Had a quick snack (chips).",
+    "output": [
+      {
+        "timestamp": "01:57UTC",
+        "label": "snack",
+        "food": [
+          "chips"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "02:04UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "02:04UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "02:11UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "02:11UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "02:18UTC - Made breakfast (avocado toast), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "02:18UTC",
+        "label": "breakfast",
+        "food": [
+          "avocado toast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "02:25UTC - Made lunch (wrap, salad), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "02:25UTC",
+        "label": "lunch",
+        "food": [
+          "wrap",
+          "salad"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "02:32UTC - Made dinner (steak, pasta, curry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "02:32UTC",
+        "label": "dinner",
+        "food": [
+          "steak",
+          "pasta",
+          "curry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "02:39UTC - Had a quick snack (apple).",
+    "output": [
+      {
+        "timestamp": "02:39UTC",
+        "label": "snack",
+        "food": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "02:46UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "02:46UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "02:53UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "02:53UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "03:00UTC - Made breakfast (yogurt), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "03:00UTC",
+        "label": "breakfast",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "03:07UTC - Made lunch (sushi, burger), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "03:07UTC",
+        "label": "lunch",
+        "food": [
+          "sushi",
+          "burger"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "03:14UTC - Made dinner (pizza, fish, steak), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "03:14UTC",
+        "label": "dinner",
+        "food": [
+          "pizza",
+          "fish",
+          "steak"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "03:21UTC - Had a quick snack (yogurt).",
+    "output": [
+      {
+        "timestamp": "03:21UTC",
+        "label": "snack",
+        "food": [
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "03:28UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "03:28UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "03:35UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "03:35UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "03:42UTC - Made breakfast (oatmeal), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "03:42UTC",
+        "label": "breakfast",
+        "food": [
+          "oatmeal"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "03:49UTC - Made lunch (rice, chicken), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "03:49UTC",
+        "label": "lunch",
+        "food": [
+          "rice",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "03:56UTC - Made dinner (stir fry, tacos, pizza), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "03:56UTC",
+        "label": "dinner",
+        "food": [
+          "stir fry",
+          "tacos",
+          "pizza"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "04:03UTC - Had a quick snack (protein bar).",
+    "output": [
+      {
+        "timestamp": "04:03UTC",
+        "label": "snack",
+        "food": [
+          "protein bar"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "04:10UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "04:10UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "04:17UTC - Had dessert (pie, ice cream, cake).",
+    "output": [
+      {
+        "timestamp": "04:17UTC",
+        "label": "dessert",
+        "food": [
+          "pie",
+          "ice cream",
+          "cake"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "04:24UTC - Made breakfast (eggs), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "04:24UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "04:31UTC - Made lunch (sandwich, pasta), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "04:31UTC",
+        "label": "lunch",
+        "food": [
+          "sandwich",
+          "pasta"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "04:38UTC - Made dinner (curry, soup, stir fry), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "04:38UTC",
+        "label": "dinner",
+        "food": [
+          "curry",
+          "soup",
+          "stir fry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "04:45UTC - Had a quick snack (chips).",
+    "output": [
+      {
+        "timestamp": "04:45UTC",
+        "label": "snack",
+        "food": [
+          "chips"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "04:52UTC - Drank smoothie, water.",
+    "output": [
+      {
+        "timestamp": "04:52UTC",
+        "label": "drink",
+        "food": [
+          "smoothie",
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "04:59UTC - Had dessert (cake, cookie, pie).",
+    "output": [
+      {
+        "timestamp": "04:59UTC",
+        "label": "dessert",
+        "food": [
+          "cake",
+          "cookie",
+          "pie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "05:06UTC - Made breakfast (avocado toast), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "05:06UTC",
+        "label": "breakfast",
+        "food": [
+          "avocado toast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "05:13UTC - Made lunch (wrap, salad), ate shortly after.",
+    "output": [
+      {
+        "timestamp": "05:13UTC",
+        "label": "lunch",
+        "food": [
+          "wrap",
+          "salad"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:50UTC - Made scrambled eggs (eggs, milk, butter), ate by 08:05UTC.",
+    "output": [
+      {
+        "timestamp": "07:50UTC",
+        "label": "food_event",
+        "food": [
+          "eggs",
+          "milk",
+          "butter"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:45UTC - Made scrambled eggs (eggs, milk, butter), ate by 08:05UTC.",
+    "output": [
+      {
+        "timestamp": "07:45UTC",
+        "label": "food_event",
+        "food": [
+          "eggs",
+          "milk"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:57UTC - Made scrambled eggs (eggs, milk, butter), ate by 08:05UTC.",
+    "output": [
+      {
+        "timestamp": "07:57UTC",
+        "label": "food_event",
+        "food": [
+          "eggs",
+          "milk",
+          "butter",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:30UTC - Grabbed a coffee and muffin (blueberry), headed to meeting.",
+    "output": [
+      {
+        "timestamp": "08:30UTC",
+        "label": "drink",
+        "food": [
+          "blueberry"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:25UTC - Grabbed a coffee and muffin (blueberry), headed to meeting.",
+    "output": [
+      {
+        "timestamp": "08:25UTC",
+        "label": "drink"
+      }
+    ]
+  },
+  {
+    "note": "08:37UTC - Grabbed a coffee and muffin (blueberry), headed to meeting.",
+    "output": [
+      {
+        "timestamp": "08:37UTC",
+        "label": "drink",
+        "food": [
+          "blueberry",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:10UTC - Prepared lunch (turkey sandwich, avocado), ate at 09:30UTC.",
+    "output": [
+      {
+        "timestamp": "09:10UTC",
+        "label": "lunch",
+        "food": [
+          "turkey s",
+          "wich",
+          "avocado"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:05UTC - Prepared lunch (turkey sandwich, avocado), ate at 09:30UTC.",
+    "output": [
+      {
+        "timestamp": "09:05UTC",
+        "label": "lunch",
+        "food": [
+          "turkey s",
+          "wich"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:17UTC - Prepared lunch (turkey sandwich, avocado), ate at 09:30UTC.",
+    "output": [
+      {
+        "timestamp": "09:17UTC",
+        "label": "lunch",
+        "food": [
+          "turkey s",
+          "wich",
+          "avocado",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "10:00UTC - Took a 10min snack break, had an apple and almonds.",
+    "output": [
+      {
+        "timestamp": "10:00UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "09:55UTC - Took a 10min snack break, had an apple and almonds.",
+    "output": [
+      {
+        "timestamp": "09:55UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "10:07UTC - Took a 10min snack break, had an apple and almonds.",
+    "output": [
+      {
+        "timestamp": "10:07UTC",
+        "label": "snack",
+        "food": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:45UTC - Cooked pasta (penne, tomato sauce, basil), dinner ready at 12:20UTC.",
+    "output": [
+      {
+        "timestamp": "11:45UTC",
+        "label": "dinner",
+        "food": [
+          "penne",
+          "tomato sauce",
+          "basil"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:40UTC - Cooked pasta (penne, tomato sauce, basil), dinner ready at 12:20UTC.",
+    "output": [
+      {
+        "timestamp": "11:40UTC",
+        "label": "dinner",
+        "food": [
+          "penne",
+          "tomato sauce"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:52UTC - Cooked pasta (penne, tomato sauce, basil), dinner ready at 12:20UTC.",
+    "output": [
+      {
+        "timestamp": "11:52UTC",
+        "label": "dinner",
+        "food": [
+          "penne",
+          "tomato sauce",
+          "basil",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:15UTC - Ordered takeout (pad thai, tofu), delivered at 12:40UTC.",
+    "output": [
+      {
+        "timestamp": "12:15UTC",
+        "label": "food_event",
+        "food": [
+          "pad thai",
+          "tofu"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:10UTC - Ordered takeout (pad thai, tofu), delivered at 12:40UTC.",
+    "output": [
+      {
+        "timestamp": "12:10UTC",
+        "label": "food_event",
+        "food": [
+          "pad thai"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:22UTC - Ordered takeout (pad thai, tofu), delivered at 12:40UTC.",
+    "output": [
+      {
+        "timestamp": "12:22UTC",
+        "label": "food_event",
+        "food": [
+          "pad thai",
+          "tofu",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:05UTC - Heated leftovers (rice and chicken), ate quickly.",
+    "output": [
+      {
+        "timestamp": "13:05UTC",
+        "label": "food_event",
+        "food": [
+          "rice",
+          "chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:00UTC - Heated leftovers (rice and chicken), ate quickly.",
+    "output": [
+      {
+        "timestamp": "13:00UTC",
+        "label": "food_event",
+        "food": [
+          "rice"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:12UTC - Heated leftovers (rice and chicken), ate quickly.",
+    "output": [
+      {
+        "timestamp": "13:12UTC",
+        "label": "food_event",
+        "food": [
+          "rice",
+          "chicken",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:20UTC - Made a smoothie (banana, spinach, yogurt), drank at 14:30UTC.",
+    "output": [
+      {
+        "timestamp": "14:20UTC",
+        "label": "drink",
+        "food": [
+          "banana",
+          "spinach",
+          "yogurt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:15UTC - Made a smoothie (banana, spinach, yogurt), drank at 14:30UTC.",
+    "output": [
+      {
+        "timestamp": "14:15UTC",
+        "label": "drink",
+        "food": [
+          "banana",
+          "spinach"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:27UTC - Made a smoothie (banana, spinach, yogurt), drank at 14:30UTC.",
+    "output": [
+      {
+        "timestamp": "14:27UTC",
+        "label": "drink",
+        "food": [
+          "banana",
+          "spinach",
+          "yogurt",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:00UTC - Had a tea and two biscuits, back to work at 15:10UTC.",
+    "output": [
+      {
+        "timestamp": "15:00UTC",
+        "label": "drink"
+      }
+    ]
+  },
+  {
+    "note": "14:55UTC - Had a tea and two biscuits, back to work at 15:10UTC.",
+    "output": [
+      {
+        "timestamp": "14:55UTC",
+        "label": "drink"
+      }
+    ]
+  },
+  {
+    "note": "15:07UTC - Had a tea and two biscuits, back to work at 15:10UTC.",
+    "output": [
+      {
+        "timestamp": "15:07UTC",
+        "label": "drink",
+        "food": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:50UTC - Stopped for street food (taco with beef), finished by 17:05UTC.",
+    "output": [
+      {
+        "timestamp": "16:50UTC",
+        "label": "food_event",
+        "food": [
+          "taco",
+          "beef"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:45UTC - Stopped for street food (taco with beef), finished by 17:05UTC.",
+    "output": [
+      {
+        "timestamp": "16:45UTC",
+        "label": "food_event",
+        "food": [
+          "taco"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:57UTC - Stopped for street food (taco with beef), finished by 17:05UTC.",
+    "output": [
+      {
+        "timestamp": "16:57UTC",
+        "label": "food_event",
+        "food": [
+          "taco",
+          "beef",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:30UTC - Prepared stir fry (shrimp, bell pepper, soy), ate at 18:00UTC.",
+    "output": [
+      {
+        "timestamp": "17:30UTC",
+        "label": "food_event",
+        "food": [
+          "shrimp",
+          "bell pepper",
+          "soy"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:25UTC - Prepared stir fry (shrimp, bell pepper, soy), ate at 18:00UTC.",
+    "output": [
+      {
+        "timestamp": "17:25UTC",
+        "label": "food_event",
+        "food": [
+          "shrimp",
+          "bell pepper"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:37UTC - Prepared stir fry (shrimp, bell pepper, soy), ate at 18:00UTC.",
+    "output": [
+      {
+        "timestamp": "17:37UTC",
+        "label": "food_event",
+        "food": [
+          "shrimp",
+          "bell pepper",
+          "soy",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:10UTC - Baked bread (flour, yeast), cooled and ate with butter later.",
+    "output": [
+      {
+        "timestamp": "18:10UTC",
+        "label": "food_event",
+        "food": [
+          "flour",
+          "yeast"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:05UTC - Baked bread (flour, yeast), cooled and ate with butter later.",
+    "output": [
+      {
+        "timestamp": "18:05UTC",
+        "label": "food_event",
+        "food": [
+          "flour"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:17UTC - Baked bread (flour, yeast), cooled and ate with butter later.",
+    "output": [
+      {
+        "timestamp": "18:17UTC",
+        "label": "food_event",
+        "food": [
+          "flour",
+          "yeast",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:00UTC - Made curry (lentils, coconut milk), started eating at 19:25UTC.",
+    "output": [
+      {
+        "timestamp": "19:00UTC",
+        "label": "dinner",
+        "food": [
+          "lentils",
+          "coconut milk"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:55UTC - Made curry (lentils, coconut milk), started eating at 19:25UTC.",
+    "output": [
+      {
+        "timestamp": "18:55UTC",
+        "label": "dinner",
+        "food": [
+          "lentils"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:07UTC - Made curry (lentils, coconut milk), started eating at 19:25UTC.",
+    "output": [
+      {
+        "timestamp": "19:07UTC",
+        "label": "dinner",
+        "food": [
+          "lentils",
+          "coconut milk",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:15UTC - Ordered pizza (margherita), shared with team at 20:40UTC.",
+    "output": [
+      {
+        "timestamp": "20:15UTC",
+        "label": "drink",
+        "food": [
+          "margherita"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:10UTC - Ordered pizza (margherita), shared with team at 20:40UTC.",
+    "output": [
+      {
+        "timestamp": "20:10UTC",
+        "label": "drink"
+      }
+    ]
+  },
+  {
+    "note": "20:22UTC - Ordered pizza (margherita), shared with team at 20:40UTC.",
+    "output": [
+      {
+        "timestamp": "20:22UTC",
+        "label": "drink",
+        "food": [
+          "margherita",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:00UTC - Late snack: yogurt and granola, felt full afterwards.",
+    "output": [
+      {
+        "timestamp": "21:00UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "20:55UTC - Late snack: yogurt and granola, felt full afterwards.",
+    "output": [
+      {
+        "timestamp": "20:55UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "21:07UTC - Late snack: yogurt and granola, felt full afterwards.",
+    "output": [
+      {
+        "timestamp": "21:07UTC",
+        "label": "snack",
+        "food": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:40UTC - Had breakfast on the go (bagel with cream cheese), arrived at office.",
+    "output": [
+      {
+        "timestamp": "06:40UTC",
+        "label": "breakfast",
+        "food": [
+          "bagel",
+          "cream cheese"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:35UTC - Had breakfast on the go (bagel with cream cheese), arrived at office.",
+    "output": [
+      {
+        "timestamp": "06:35UTC",
+        "label": "breakfast",
+        "food": [
+          "bagel"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "06:47UTC - Had breakfast on the go (bagel with cream cheese), arrived at office.",
+    "output": [
+      {
+        "timestamp": "06:47UTC",
+        "label": "breakfast",
+        "food": [
+          "bagel",
+          "cream cheese",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:25UTC - Cooked omelette (eggs, cheese, spinach), ate at 07:40UTC.",
+    "output": [
+      {
+        "timestamp": "07:25UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs",
+          "cheese",
+          "spinach"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:20UTC - Cooked omelette (eggs, cheese, spinach), ate at 07:40UTC.",
+    "output": [
+      {
+        "timestamp": "07:20UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs",
+          "cheese"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "07:32UTC - Cooked omelette (eggs, cheese, spinach), ate at 07:40UTC.",
+    "output": [
+      {
+        "timestamp": "07:32UTC",
+        "label": "breakfast",
+        "food": [
+          "eggs",
+          "cheese",
+          "spinach",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:45UTC - Grabbed a pastry (croissant) and espresso, quick break.",
+    "output": [
+      {
+        "timestamp": "09:45UTC",
+        "label": "food_event",
+        "food": [
+          "croissant"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:40UTC - Grabbed a pastry (croissant) and espresso, quick break.",
+    "output": [
+      {
+        "timestamp": "09:40UTC",
+        "label": "food_event"
+      }
+    ]
+  },
+  {
+    "note": "09:52UTC - Grabbed a pastry (croissant) and espresso, quick break.",
+    "output": [
+      {
+        "timestamp": "09:52UTC",
+        "label": "food_event",
+        "food": [
+          "croissant",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:00UTC - Lunch prep took 15min, made tuna salad (tuna, mayo, celery).",
+    "output": [
+      {
+        "timestamp": "12:00UTC",
+        "label": "lunch",
+        "food": [
+          "tuna",
+          "mayo",
+          "celery"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:55UTC - Lunch prep took 15min, made tuna salad (tuna, mayo, celery).",
+    "output": [
+      {
+        "timestamp": "11:55UTC",
+        "label": "lunch",
+        "food": [
+          "tuna",
+          "mayo"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:07UTC - Lunch prep took 15min, made tuna salad (tuna, mayo, celery).",
+    "output": [
+      {
+        "timestamp": "12:07UTC",
+        "label": "lunch",
+        "food": [
+          "tuna",
+          "mayo",
+          "celery",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:35UTC - Ate lunch outside (sushi roll: salmon, avocado), nice weather.",
+    "output": [
+      {
+        "timestamp": "12:35UTC",
+        "label": "lunch",
+        "food": [
+          "sushi roll",
+          "salmon",
+          "avocado"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:30UTC - Ate lunch outside (sushi roll: salmon, avocado), nice weather.",
+    "output": [
+      {
+        "timestamp": "12:30UTC",
+        "label": "lunch",
+        "food": [
+          "sushi roll",
+          "salmon"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:42UTC - Ate lunch outside (sushi roll: salmon, avocado), nice weather.",
+    "output": [
+      {
+        "timestamp": "12:42UTC",
+        "label": "lunch",
+        "food": [
+          "sushi roll",
+          "salmon",
+          "avocado",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "13:50UTC - Snacked on carrot sticks and hummus, refreshed.",
+    "output": [
+      {
+        "timestamp": "13:50UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "13:45UTC - Snacked on carrot sticks and hummus, refreshed.",
+    "output": [
+      {
+        "timestamp": "13:45UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "13:57UTC - Snacked on carrot sticks and hummus, refreshed.",
+    "output": [
+      {
+        "timestamp": "13:57UTC",
+        "label": "snack",
+        "food": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:30UTC - Made protein shake (whey, banana), drank before gym.",
+    "output": [
+      {
+        "timestamp": "15:30UTC",
+        "label": "drink",
+        "food": [
+          "whey",
+          "banana"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:25UTC - Made protein shake (whey, banana), drank before gym.",
+    "output": [
+      {
+        "timestamp": "15:25UTC",
+        "label": "drink",
+        "food": [
+          "whey"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:37UTC - Made protein shake (whey, banana), drank before gym.",
+    "output": [
+      {
+        "timestamp": "15:37UTC",
+        "label": "drink",
+        "food": [
+          "whey",
+          "banana",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:00UTC - Finished preparing dinner (roast chicken, potatoes) \u2014 smells good.",
+    "output": [
+      {
+        "timestamp": "16:00UTC",
+        "label": "dinner",
+        "food": [
+          "roast chicken",
+          "potatoes"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:55UTC - Finished preparing dinner (roast chicken, potatoes) \u2014 smells good.",
+    "output": [
+      {
+        "timestamp": "15:55UTC",
+        "label": "dinner",
+        "food": [
+          "roast chicken"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:07UTC - Finished preparing dinner (roast chicken, potatoes) \u2014 smells good.",
+    "output": [
+      {
+        "timestamp": "16:07UTC",
+        "label": "dinner",
+        "food": [
+          "roast chicken",
+          "potatoes",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:10UTC - Ate dinner at 17:30UTC, dessert was fruit salad (apple, kiwi).",
+    "output": [
+      {
+        "timestamp": "17:10UTC",
+        "label": "dinner",
+        "food": [
+          "apple",
+          "kiwi"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:05UTC - Ate dinner at 17:30UTC, dessert was fruit salad (apple, kiwi).",
+    "output": [
+      {
+        "timestamp": "17:05UTC",
+        "label": "dinner",
+        "food": [
+          "apple"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:17UTC - Ate dinner at 17:30UTC, dessert was fruit salad (apple, kiwi).",
+    "output": [
+      {
+        "timestamp": "17:17UTC",
+        "label": "dinner",
+        "food": [
+          "apple",
+          "kiwi",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:45UTC - Quick coffee break, had a biscotti with latte.",
+    "output": [
+      {
+        "timestamp": "18:45UTC",
+        "label": "drink"
+      }
+    ]
+  },
+  {
+    "note": "18:40UTC - Quick coffee break, had a biscotti with latte.",
+    "output": [
+      {
+        "timestamp": "18:40UTC",
+        "label": "drink"
+      }
+    ]
+  },
+  {
+    "note": "18:52UTC - Quick coffee break, had a biscotti with latte.",
+    "output": [
+      {
+        "timestamp": "18:52UTC",
+        "label": "drink",
+        "food": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:20UTC - Took 25 minutes to cook spaghetti (garlic, olive oil, chili).",
+    "output": [
+      {
+        "timestamp": "19:20UTC",
+        "label": "food_event",
+        "food": [
+          "garlic",
+          "olive oil",
+          "chili"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:15UTC - Took 25 minutes to cook spaghetti (garlic, olive oil, chili).",
+    "output": [
+      {
+        "timestamp": "19:15UTC",
+        "label": "food_event",
+        "food": [
+          "garlic",
+          "olive oil"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "19:27UTC - Took 25 minutes to cook spaghetti (garlic, olive oil, chili).",
+    "output": [
+      {
+        "timestamp": "19:27UTC",
+        "label": "food_event",
+        "food": [
+          "garlic",
+          "olive oil",
+          "chili",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:05UTC - Ate leftovers (stew) and warmed bread, done by 20:25UTC.",
+    "output": [
+      {
+        "timestamp": "20:05UTC",
+        "label": "dinner",
+        "food": [
+          "stew"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "20:00UTC - Ate leftovers (stew) and warmed bread, done by 20:25UTC.",
+    "output": [
+      {
+        "timestamp": "20:00UTC",
+        "label": "dinner"
+      }
+    ]
+  },
+  {
+    "note": "20:12UTC - Ate leftovers (stew) and warmed bread, done by 20:25UTC.",
+    "output": [
+      {
+        "timestamp": "20:12UTC",
+        "label": "dinner",
+        "food": [
+          "stew",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:30UTC - Craving: ice cream (vanilla) \u2014 had a small bowl.",
+    "output": [
+      {
+        "timestamp": "21:30UTC",
+        "label": "food_event",
+        "food": [
+          "vanilla"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "21:25UTC - Craving: ice cream (vanilla) \u2014 had a small bowl.",
+    "output": [
+      {
+        "timestamp": "21:25UTC",
+        "label": "food_event"
+      }
+    ]
+  },
+  {
+    "note": "21:37UTC - Craving: ice cream (vanilla) \u2014 had a small bowl.",
+    "output": [
+      {
+        "timestamp": "21:37UTC",
+        "label": "food_event",
+        "food": [
+          "vanilla",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:10UTC - Made late sandwich (peanut butter & jam), quick snack before bed.",
+    "output": [
+      {
+        "timestamp": "22:10UTC",
+        "label": "lunch",
+        "food": [
+          "peanut butter",
+          "jam"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:05UTC - Made late sandwich (peanut butter & jam), quick snack before bed.",
+    "output": [
+      {
+        "timestamp": "22:05UTC",
+        "label": "lunch",
+        "food": [
+          "peanut butter"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "22:17UTC - Made late sandwich (peanut butter & jam), quick snack before bed.",
+    "output": [
+      {
+        "timestamp": "22:17UTC",
+        "label": "lunch",
+        "food": [
+          "peanut butter",
+          "jam",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:10UTC - Prepped brunch (eggs benedict, hollandaise), served at 11:40UTC.",
+    "output": [
+      {
+        "timestamp": "11:10UTC",
+        "label": "food_event",
+        "food": [
+          "eggs benedict",
+          "holl",
+          "aise"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:05UTC - Prepped brunch (eggs benedict, hollandaise), served at 11:40UTC.",
+    "output": [
+      {
+        "timestamp": "11:05UTC",
+        "label": "food_event",
+        "food": [
+          "eggs benedict",
+          "holl"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "11:17UTC - Prepped brunch (eggs benedict, hollandaise), served at 11:40UTC.",
+    "output": [
+      {
+        "timestamp": "11:17UTC",
+        "label": "food_event",
+        "food": [
+          "eggs benedict",
+          "holl",
+          "aise",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:50UTC - Ate quickly between calls: salad wrap (chicken, lettuce, tzatziki).",
+    "output": [
+      {
+        "timestamp": "12:50UTC",
+        "label": "food_event",
+        "food": [
+          "chicken",
+          "lettuce",
+          "tzatziki"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:45UTC - Ate quickly between calls: salad wrap (chicken, lettuce, tzatziki).",
+    "output": [
+      {
+        "timestamp": "12:45UTC",
+        "label": "food_event",
+        "food": [
+          "chicken",
+          "lettuce"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:57UTC - Ate quickly between calls: salad wrap (chicken, lettuce, tzatziki).",
+    "output": [
+      {
+        "timestamp": "12:57UTC",
+        "label": "food_event",
+        "food": [
+          "chicken",
+          "lettuce",
+          "tzatziki",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "14:05UTC - Snack: cheese and crackers while reading.",
+    "output": [
+      {
+        "timestamp": "14:05UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "14:00UTC - Snack: cheese and crackers while reading.",
+    "output": [
+      {
+        "timestamp": "14:00UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "14:12UTC - Snack: cheese and crackers while reading.",
+    "output": [
+      {
+        "timestamp": "14:12UTC",
+        "label": "snack",
+        "food": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:55UTC - Coffee and a slice of cake (lemon), meeting buffered.",
+    "output": [
+      {
+        "timestamp": "15:55UTC",
+        "label": "drink",
+        "food": [
+          "lemon"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "15:50UTC - Coffee and a slice of cake (lemon), meeting buffered.",
+    "output": [
+      {
+        "timestamp": "15:50UTC",
+        "label": "drink"
+      }
+    ]
+  },
+  {
+    "note": "16:02UTC - Coffee and a slice of cake (lemon), meeting buffered.",
+    "output": [
+      {
+        "timestamp": "16:02UTC",
+        "label": "drink",
+        "food": [
+          "lemon",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:00UTC - Prepped stew (beef, carrots, potatoes) \u2014 slow cook for 2 hours.",
+    "output": [
+      {
+        "timestamp": "17:00UTC",
+        "label": "dinner",
+        "food": [
+          "beef",
+          "carrots",
+          "potatoes"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:55UTC - Prepped stew (beef, carrots, potatoes) \u2014 slow cook for 2 hours.",
+    "output": [
+      {
+        "timestamp": "16:55UTC",
+        "label": "dinner",
+        "food": [
+          "beef",
+          "carrots"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "17:07UTC - Prepped stew (beef, carrots, potatoes) \u2014 slow cook for 2 hours.",
+    "output": [
+      {
+        "timestamp": "17:07UTC",
+        "label": "dinner",
+        "food": [
+          "beef",
+          "carrots",
+          "potatoes",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:40UTC - Dinner served at 19:00UTC, family joined for pizza.",
+    "output": [
+      {
+        "timestamp": "18:40UTC",
+        "label": "dinner"
+      }
+    ]
+  },
+  {
+    "note": "18:35UTC - Dinner served at 19:00UTC, family joined for pizza.",
+    "output": [
+      {
+        "timestamp": "18:35UTC",
+        "label": "dinner"
+      }
+    ]
+  },
+  {
+    "note": "18:47UTC - Dinner served at 19:00UTC, family joined for pizza.",
+    "output": [
+      {
+        "timestamp": "18:47UTC",
+        "label": "dinner",
+        "food": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:15UTC - Toast with jam, morning routine \u2014 left at 08:35UTC.",
+    "output": [
+      {
+        "timestamp": "08:15UTC",
+        "label": "food_event"
+      }
+    ]
+  },
+  {
+    "note": "08:10UTC - Toast with jam, morning routine \u2014 left at 08:35UTC.",
+    "output": [
+      {
+        "timestamp": "08:10UTC",
+        "label": "food_event"
+      }
+    ]
+  },
+  {
+    "note": "08:22UTC - Toast with jam, morning routine \u2014 left at 08:35UTC.",
+    "output": [
+      {
+        "timestamp": "08:22UTC",
+        "label": "food_event",
+        "food": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:00UTC - Made pancakes for kids (flour, milk, eggs), finished by 09:25UTC.",
+    "output": [
+      {
+        "timestamp": "09:00UTC",
+        "label": "breakfast",
+        "food": [
+          "flour",
+          "milk",
+          "eggs"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "08:55UTC - Made pancakes for kids (flour, milk, eggs), finished by 09:25UTC.",
+    "output": [
+      {
+        "timestamp": "08:55UTC",
+        "label": "breakfast",
+        "food": [
+          "flour",
+          "milk"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "09:07UTC - Made pancakes for kids (flour, milk, eggs), finished by 09:25UTC.",
+    "output": [
+      {
+        "timestamp": "09:07UTC",
+        "label": "breakfast",
+        "food": [
+          "flour",
+          "milk",
+          "eggs",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:10UTC - Quick stir-fry lunch (tofu, broccoli, teriyaki), ate at desk.",
+    "output": [
+      {
+        "timestamp": "12:10UTC",
+        "label": "lunch",
+        "food": [
+          "tofu",
+          "broccoli",
+          "teriyaki"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:05UTC - Quick stir-fry lunch (tofu, broccoli, teriyaki), ate at desk.",
+    "output": [
+      {
+        "timestamp": "12:05UTC",
+        "label": "lunch",
+        "food": [
+          "tofu",
+          "broccoli"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "12:17UTC - Quick stir-fry lunch (tofu, broccoli, teriyaki), ate at desk.",
+    "output": [
+      {
+        "timestamp": "12:17UTC",
+        "label": "lunch",
+        "food": [
+          "tofu",
+          "broccoli",
+          "teriyaki",
+          "salt"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "16:20UTC - Snacked on mixed nuts and dark chocolate, energized.",
+    "output": [
+      {
+        "timestamp": "16:20UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "16:15UTC - Snacked on mixed nuts and dark chocolate, energized.",
+    "output": [
+      {
+        "timestamp": "16:15UTC",
+        "label": "snack"
+      }
+    ]
+  },
+  {
+    "note": "16:27UTC - Snacked on mixed nuts and dark chocolate, energized.",
+    "output": [
+      {
+        "timestamp": "16:27UTC",
+        "label": "snack",
+        "food": [
+          "water"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:55UTC - Had a small dessert (brownie) after dinner, then cleaned up.",
+    "output": [
+      {
+        "timestamp": "18:55UTC",
+        "label": "dinner",
+        "food": [
+          "brownie"
+        ]
+      }
+    ]
+  },
+  {
+    "note": "18:50UTC - Had a small dessert (brownie) after dinner, then cleaned up.",
+    "output": [
+      {
+        "timestamp": "18:50UTC",
+        "label": "dinner"
+      }
+    ]
+  },
+  {
+    "note": "19:02UTC - Had a small dessert (brownie) after dinner, then cleaned up.",
+    "output": [
+      {
+        "timestamp": "19:02UTC",
+        "label": "dinner",
+        "food": [
+          "brownie",
+          "salt"
+        ]
+      }
+    ]
+  }
+]
